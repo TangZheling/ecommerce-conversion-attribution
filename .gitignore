@@ -1,0 +1,10 @@
+# Raw data is downloaded by scripts/download_data.py (UCI, CC BY 4.0)
+data/*.csv
+data/*.zip
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
